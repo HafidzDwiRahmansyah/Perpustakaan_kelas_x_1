@@ -1,0 +1,26 @@
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\bin\Debug\perpus_online.exe.config
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\bin\Debug\perpus_online.exe
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\bin\Debug\perpus_online.pdb
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\bin\Debug\perpus_online.xml
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\obj\Debug\perpus_online.Form1.resources
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\obj\Debug\perpus_online.Resources.resources
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\obj\Debug\perpus_online.vbproj.GenerateResource.Cache
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\obj\Debug\perpus_online.exe
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\obj\Debug\perpus_online.xml
+C:\Users\My-Asus\AppData\Local\Temporary Projects\perpus_online\obj\Debug\perpus_online.pdb
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\bin\Debug\perpus_online.exe.config
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.exe
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.xml
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.pdb
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\bin\Debug\perpus_online.exe
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\bin\Debug\perpus_online.pdb
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\bin\Debug\perpus_online.xml
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.Form1.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.Resources.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.vbproj.GenerateResource.Cache
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.login.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.FormPetugas.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.FormAnggota.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.FormBuku.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.pinjam.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\perpus_online\perpus_online\obj\Debug\perpus_online.pengembalian.resources
